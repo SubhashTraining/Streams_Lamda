@@ -86,7 +86,7 @@ public class FI01 {
 		Consumer<Integer> con = System.out::println;
 		Predicate<Integer> pred = n-> n%2==0;
 		
-		// the above lambda expression will create an instance of the appropriate functio
+		// the above lambda expression will create an instance of the appropriate function
 		
 		
 	}
